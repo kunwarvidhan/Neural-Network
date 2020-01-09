@@ -1,5 +1,5 @@
 # Neural-Networks
-This consists of Neural Network Programs od ADALINE, MADALINE and Perceptron
+This consists of Neural Network Programs on ADALINE, MADALINE and Perceptron
 
 
 Requirements: GCC compiler
